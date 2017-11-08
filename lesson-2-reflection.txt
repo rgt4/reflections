@@ -1,22 +1,31 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Git creates empty database for commits and history tracking. It is needed to make it work.
+	Git creates empty database for commits and history tracking. It is needed to make it work.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-It helps separate tracked files from untracked. Also helps grouping files into separate tracking groups.
+	It helps separate tracked files from untracked.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	You just add single or some of files to the staging area and then commit.
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	user branches when one want to create some experiments, or additional features, that might not be or might be incorporated into the main branch later
+
 How do the diagrams help you visualize the branch structure?
+
+	it helps to remember where is what.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	pros: saves a lot of work on obvious changes
+	cons: some automatic guessing may go wrong
