@@ -24,7 +24,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Without using guthub I would probably have to transfer changed files by network, usb keys, cdroms or diskettes (like I used to in former days). Then compare them "by hand".
+	With github is easy peasy lemon squeeze, just commit, push, pull, merge, jump :)
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
